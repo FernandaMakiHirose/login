@@ -1,2 +1,3 @@
 # Criando um formulário de login
-Acesse o site: https://fernandamakihirose.github.io/login-formulario/ 
+Criei um formulário de login usando HTML, CSS e JavaScript. [Clique aqui para acessar o projeto](https://fernandamakihirose.github.io/login-formulario/ )
+
